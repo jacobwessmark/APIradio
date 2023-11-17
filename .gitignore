@@ -1,0 +1,5 @@
+# Ignore everything
+venv/Lib
+
+# But not these files...
+!main.py
