@@ -1,7 +1,6 @@
-# srAPIradio
-Jacob Wessmark & Timothy Lundberg
+# APIradio
+*(Developed as part of my studies at KYH in Malmö)*
 
-Summary:
 
 This Python script, developed as a school project, provides a convenient way to access and display radio station schedules in Sweden using the Sveriges Radio API. By selecting a station, users can see the program currently on air and the next five upcoming programs.
 
